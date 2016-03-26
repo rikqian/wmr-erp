@@ -1,0 +1,110 @@
+
+
+BODY {
+	FONT-SIZE: 12px; /*BACKGROUND: url(../images/top.png) #fff repeat-x center top;*/ MARGIN: 0px auto; COLOR: #333;
+	overflow-x: hidden;
+	background:#FBFBFB;
+	min-width:1110px;
+}
+DIV {
+	margin:0px; padding:0px;
+}
+FORM {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+UL {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+OL {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+SPAN {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+P {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+
+UL {
+	LIST-STYLE-TYPE: none
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+TABLE {
+	FONT-SIZE: 12px
+}
+TD {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-SIZE: 12px
+}
+H1 {
+	MARGIN: 0px auto
+}
+H2 {
+	MARGIN: 0px auto
+}
+H3 {
+	MARGIN: 0px auto
+}
+H4 {
+	MARGIN: 0px auto
+}
+H5 {
+	MARGIN: 0px auto
+}
+H6 {
+	MARGIN: 0px auto
+}
+H1 {
+	FONT-SIZE: 28px
+}
+H2 {
+	FONT-SIZE: 22px
+}
+H3 {
+	FONT-SIZE: 16px
+}
+H4 {
+	FONT-SIZE: 14px
+}
+H5 {
+	FONT-SIZE: 14px
+}
+H6 {
+	FONT-SIZE: 14px
+}
+
+
+
+
+
+
+
+a.tupian_texiao {
+	display:block;
+	overflow: hidden;
+	margin: 0px auto;
+	text-align: center;
+}
+a.tupian_texiao img{ 
+    -moz-transition:all 1.2s;
+	-webkit-transition:all 1.2s;
+	-o-transition:all 1.2s;
+	transition:all 1.2s;
+}
+a.tupian_texiao img:hover{ 
+    -moz-transform:scale(1.2);
+	-webkit-transform:scale(1.2);
+	-o-transform:scale(1.2);
+	-ms-transform:scale(1.2);
+	transform:scale(1.2);
+}

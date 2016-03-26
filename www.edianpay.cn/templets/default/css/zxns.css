@@ -1,0 +1,40 @@
+@charset "utf-8";
+.zxns{ overflow:hidden; margin:60px auto 10px;  }
+.leftwrap{ width:270px; float:left; border-radius:10px;  background-color:#fff; padding-bottom:10px;}
+.rightwrap{ width:910px; float:left; margin-left:20px; }
+.leftwrap ul li{ overflow:hidden;}
+.leftwrap ul li a{ display:block; font:16px/20px "微软雅黑"; color:000; padding-left:10px; text-decoration:none;}
+
+.leftwrap ul li{ margin-top:10px;margin-buttom:10px; padding:10px 0px;}
+.leftwrap ul li.active{ background-color:#4DCEE3; }
+.leftwrap ul li.active a{ color:#fff;}
+/**招聘信息*/
+.menuDiv { overflow:hidden;}
+.menuDiv .h3{ overflow:hidden; }
+.menuDiv .h3 a{ display:block;font:16px/30px "微软雅黑"; text-decoration:none; color:#2c3e50; display:block;  }
+.menuDiv .h3 a.a-u{float:left;}
+.menuDiv .h3 a.a-1{ float:right; margin-right:20px;}
+.menuDiv .h3:hover{  background-color:#00B0EC; }
+.menuDiv .h3:hover a{ color:#fff;}
+.ul-jobs{ overflow:hidden; margin-top:20px;}
+.ul-jobs li{ height:30px; line-height:30px; }
+.ul-jobs li:hover{ background-color:#70b8c3;}
+.ul-jobs li:hover a{ color:#fff;}
+.ul-jobs li a{ font:16px/30px "微软雅黑"; color:#2c3e50; display:block; float:left;}
+.ul-jobs li span.sp-net{ display:block; background:url(../images/sp-nets.png) no-repeat; width:16px; height:10px; float:left; margin:11px 5px;}
+.jobs-con{width:882px;border:1px solid #eeeeee; background-color:#EEEEEE; margin:8px auto; padding-bottom:30px;}
+.rightback{ padding-bottom:60px; border-radius:10px;}
+/*岗位职称*/
+.p-job{ font:16px/18px "微软雅黑"; color:#2c3e50; padding:20px;}
+.div-jobs p{ font:14px/20px "微软雅黑"; color:#778691; padding-left:20px; }
+
+/*岗位职称*/
+.p-job{ font:16px/18px "微软雅黑"; color:#413d3c; padding:20px;}
+.div-jobs p{ font:14px/20px "微软雅黑"; color:#858585; padding-left:20px; }
+.about-top p span{ color:#2473ba;}
+.mission { margin-top:20px; }
+.mission span {font:bold 24px/40px "微软雅黑";color: #2473ba;}
+.li-jobs{ padding-left:20px;font:16px/30px "微软雅黑"; color:#2c3e50; cursor: pointer;}
+.h3{margin-bottom: 1px; margin-top: 5px;}
+#footer2{background: #37383a url(../images/footer.jpg) no-repeat scroll center center;
+    bottom: 0; clear: both;height: 150px;width: 100%;}

@@ -1,0 +1,8 @@
+http://www.edianpay.cn/	www.edianpay.html
+http://www.edianpay.cn/plus/list.php?tid=1	list.php퓍id=1.html
+http://www.edianpay.cn/plus/list.php?tid=2	list.php퓍id=2.html
+http://www.edianpay.cn/plus/list.php?tid=3	list.php퓍id=3.html
+http://www.edianpay.cn/plus/list.php?tid=4	list.php퓍id=4.html
+http://www.edianpay.cn/plus/list.php?tid=5	list.php퓍id=5.html
+http://www.edianpay.cn/plus/list.php?tid=6	list.php퓍id=6.html
+http://www.edianpay.cn/plus/list.php?tid=7	list.php퓍id=7.html
